@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Matrab</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
+- 🌱 I’m currently learning **Microservices with dotnet framework**
+
+- 👨‍💻 All of my projects are available at [https://mohamed-matrab.vercel.app/](https://mohamed-matrab.vercel.app/)
+
+- 💬 Ask me about **dotnet framework**
+
 - 📫 How to reach me **mohamed.matrab.64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

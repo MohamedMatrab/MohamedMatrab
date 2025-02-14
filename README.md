@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamed-matrab.com/](https://mohamed-matrab.com/)
 
-- 💬 Ask me about **Microservices with dotnet framework**
+- 💬 Ask me about **dotnet framework**
 
 - 📫 How to reach me **mohamed.matrab.64@gmail.com**
 

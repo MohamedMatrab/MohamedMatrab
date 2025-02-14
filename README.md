@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Matrab</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **Microservices with dotnet framework**
-
 - 👨‍💻 All of my projects are available at [https://mohamed-matrab.com/](https://mohamed-matrab.com/)
 
-- 💬 Ask me about **dotnet framework**
+- 💬 Ask me about **Microservices with dotnet framework**
 
 - 📫 How to reach me **mohamed.matrab.64@gmail.com**
 
